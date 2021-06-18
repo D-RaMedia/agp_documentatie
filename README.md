@@ -1,8 +1,8 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [Infiltrate: Babel]
+Project team:[Diego, Cas, Leihko, Raymond, Faye, Micha]
 
 Platform:
-[jullie platfom]
+[Unity Version 2020.2.2f1]
 
 ### Korte omschrijving van de game
 ...
