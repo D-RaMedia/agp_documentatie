@@ -11,7 +11,7 @@ Platform:
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |
-| Link naar online product backlog (Trello) | [Backlog]
+| Link naar online product backlog (Trello) | [ https://trello.com/b/CyMkUgTp/toren-van-babel-mythe ]
 | Logboek (pdf)                             | [Logboek]
 | Game concept doc (pdf)                    | [GameDesignDoc]
 |<img width=500/>|<img width=300/>|
