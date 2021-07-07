@@ -5,7 +5,7 @@ Platform:
 [Unity Version 2020.2.2f1]
 
 ### Korte omschrijving van de game
-...
+Infiltrate: Babel is een sneak singleplayer game. Deze game voltooi je door in elke kamer de vijanden de vermijden en de eind deur te halen die leidt naar het volgende level. Hoe hoger het level, hoe moeilijker het zal worden met de omgeving en de vijanden.
 
 ---
 #### Producten Werkproces 1
