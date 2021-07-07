@@ -43,6 +43,6 @@ Infiltrate: Babel is een sneak singleplayer game. Deze game voltooi je door in e
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/D-RaMedia/agp_documentatie/blob/master/producten/Review-Verslag.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
+   [Folder op teams]: <https://teams.microsoft.com/_#/school/files/Team%2004?threadId=19%3A499294e549d04aee977eb9374d213153%40thread.tacv2&ctx=channel&context=Recordings&rootfolder=%252Fteams%252FMytheGDGA2021-Team4%252FGedeelde%2520documenten%252FTeam%25204%252FRecordings>
    [AssetPlanning]: <https://github.com/D-RaMedia/agp_documentatie/blob/master/producten/Asset_list_-_Blad1.pdf>
    
